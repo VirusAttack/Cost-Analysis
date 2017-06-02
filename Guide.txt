@@ -1,0 +1,10 @@
+Code is in Java.
+The Cost.zip file has the project which I created using NetBeans IDE 8.1.
+The Products text file contains my code in case you can't use the zipped project. (I would prefer if you use Netbeans only)
+Screenshot shows the Input and Output format.
+In input we just need to provide the quantity 1 by 1 starting from quantity of A then B and till I.
+
+Only thing I assumed is that if the increase in cost was 8 for every additional 5kg weight then for additional weight less than 5kg, it is the same.
+for example:    If the weight is 8,
+		cost per unit becomes 10 + 8.  (10 for first 5 and 8 for the additional 3.)
+I think this was supposed to be obvious but still for safe side I wrote it here.
