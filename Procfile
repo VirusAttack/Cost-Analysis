@@ -1,1 +1,1 @@
-web: java -jar target/Cost-Analysis.jar
+web: java -cp target/classes:"target/dependency/*" Main
